@@ -1,6 +1,6 @@
 
 
-var mySchedule = [{name:"Blood Preasure", date: "2017-09-10"},
+var mySchedule = [{name:"Blood Pressure", date: "2017-09-10"},
   {name:"Coronary angioplasty", 	date:"2017-09-12"},
   {name:"Blood Pressure", 	date:"2017-09-13"},
     
